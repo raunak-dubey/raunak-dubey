@@ -19,7 +19,7 @@ I'm a passionate and aspiring Web Developer with a strong foundation in HTML, CS
 - 🌱 **Learning Journey**: Continuously learning and expanding my skillset to stay updated with the latest technologies.
 
 ## Get in Touch
-- **Email**: [raunak.gandharvika@gmail.com](mailto:raunak.gandharvika108@gmail.com)
+- **Email**: [raunak.gandharvika108@gmail.com](mailto:raunak.gandharvika108@gmail.com)
 - **Instagram**: [raunak.gandharvika](https://instagram.com/raunak.gandharvika)
 
 ## Hare Krishna!
