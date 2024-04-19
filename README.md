@@ -19,8 +19,7 @@ I'm a passionate and aspiring Web Developer with a strong foundation in HTML, CS
 - 🌱 **Learning Journey**: Continuously learning and expanding my skillset to stay updated with the latest technologies.
 
 ## Get in Touch
-- **Email**: [raunak.gandharvika108@gmail.com](mailto:raunak.gandharvika108@gmail.com)
-- **Instagram**: [raunak.gandharvika](https://instagram.com/raunak.gandharvika)
+- **Email**: [raunak.code18@gmail.com](mailto:raunak.code18@gmail.com)
 
 ## Hare Krishna!
 Thank you for visiting my GitHub profile. I'm committed to creating impactful web solutions and fostering collaborations that drive innovation. Let's connect and create something amazing together!
