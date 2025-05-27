@@ -1,25 +1,28 @@
-# Hare  krishna, I'm Raunak Dubey
-## About Me
-I'm a passionate and aspiring Web Developer with a strong foundation in HTML, CSS, and JavaScript. Currently studying in class 11, I'm dedicated to honing my skills and exploring new technologies to create impactful web solutions.
+# 🙏 Hare Krishna! I'm Raunak Dubey
 
-## Skills & Technologies
+I'm a passionate and driven **Web Developer** currently in Class 12, with a strong foundation in **Front End Dev**. I enjoy crafting intuitive, responsive, and engaging user experiences on the web while continuously expanding my skill set and exploring new technologies.
+
+## 🛠️ Skills & Technologies
+
 - 💻 **HTML**
 - 🎨 **CSS**
 - 🚀 **JavaScript**
-- ⚛️ **REACT JS + NEXT JS**
-- 🌀 **GSAP**
-- 🚂 **Locomotive Scroll**
-- 🌈 **Tailwind**
-- 🅱️ **bootsrap**
-- 🎨 **Figma**
-- 📜 **Git**
+- ⚛️ **MERN Stack (MongoDB, Express, React, Node.js)**
+- ✨ **GSAP (GreenSock Animation Platform)**
+- 🎢 **Locomotive Scroll**
+- 🎬 **Framer Motion**
+- 🌈 **Tailwind CSS**
+- 🧠 **Figma**
+- 🗂️ **Git & GitHub**
 
-## Let's Collaborate
-- 🤝 **Open for Projects**: Excited to collaborate on interesting web development projects. Let's turn ideas into reality!
-- 🌱 **Learning Journey**: Continuously learning and expanding my skillset to stay updated with the latest technologies.
+## 🤝 Collaboration & Learning
 
-## Get in Touch
-- **Email**: [raunak.code18@gmail.com](mailto:raunak.code18@gmail.com)
+- 🔍 **Open to Collaborations** – I'm excited to contribute to meaningful web development projects. Let’s work together to bring ideas to life.
+- 📚 **Lifelong Learner** – I actively explore new tools, frameworks, and design patterns to grow as a developer and stay ahead in the tech landscape.
 
-## Hare Krishna!
-Thank you for visiting my GitHub profile. I'm committed to creating impactful web solutions and fostering collaborations that drive innovation. Let's connect and create something amazing together!
+## 📬 Contact Me
+
+- 📧 **Email**: [raunak.code18@gmail.com](mailto:raunak.code18@gmail.com)
+
+## 🙏 Hare Krishna  
+Thanks for stopping by! I'm enthusiastic about building creative solutions and collaborating with like-minded developers. Let’s connect and create something amazing together!
